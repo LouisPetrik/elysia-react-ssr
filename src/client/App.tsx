@@ -6,8 +6,7 @@ export default function App() {
     <html>
       <head>
         <meta charSet='utf-8' />
-        <title>Bun, Elysia & React</title>
-        <meta name='description' content='Bun, Elysia & React' />
+        <title>React app</title>
         <meta name='viewport' content='width=device-width, initial-scale=1' />
       </head>
       <body>
