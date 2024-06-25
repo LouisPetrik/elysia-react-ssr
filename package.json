@@ -1,0 +1,21 @@
+{
+  "name": "elysia-sandbox",
+  "version": "1.0.50",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "bun run --watch src/index.ts"
+  },
+  "dependencies": {
+    "@elysiajs/html": "^1.0.2",
+    "@elysiajs/static": "^1.0.3",
+    "elysia": "latest",
+    "react": "next",
+    "react-dom": "next"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "bun-types": "latest"
+  },
+  "module": "src/index.js"
+}
